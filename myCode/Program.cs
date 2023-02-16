@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using FluentColorConsole;
 
-Console.WriteLine("Jurubebas.");
+Console.WriteLine("Test Message.");
 
 var showMessage = new ShowMessage();
 showMessage.WriteLine();
