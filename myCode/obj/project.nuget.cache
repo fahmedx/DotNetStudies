@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tIgK6cmRDLNJTP4N6PHbszzgQdiu1TdkPy3KQF4Hff92lQK58kQLdyN9GeO7ePS02RKRpMrERs4spLRJ5DBiHQ==",
+  "dgSpecHash": "r4eFW0c803d3NLKgwTL9XoBKu1lXlAwFZtIeBfp40Wtjq2JWm5wb+wxqkPc3S4HVlKx57kSXIQzNO/yh/AbAcQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos DotNet 6\\myCode\\myCode.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Projetos DotNet 6\\DotNetStudies\\myCode\\myCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fahme\\.nuget\\packages\\fluentcolorconsole\\2.0.1\\fluentcolorconsole.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
